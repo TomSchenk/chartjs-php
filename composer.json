@@ -1,5 +1,5 @@
 {
-    "name": "bbsnly/chartjs-php",
+    "name": "tomschenk/chartjs-php",
     "description": "Laravel helper for ChartJS 2.0",
     "keywords": [
         "chartjs",
